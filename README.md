@@ -1,1 +1,1 @@
-# Vinted-Scraping-python-for-Vinted-API-
+# Vinted_Scraping
